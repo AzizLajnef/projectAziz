@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://img.freepik.com/free-photo/fresh-colourful-ingredients-mexican-cuisine_23-2148254294.jpg?size=626&ext=jpg&ga=GA1.1.214226237.1710362674&semt=ais'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    font-family: 'Lobster', cursive; 
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, p {
+    font-family: 'Lobster', cursive; 
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  }
+  
